@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of Thomas Henshaw Esquire, sometimes Major in the French Kings service. In justification of himself against the aspersions throwne vpon him. Concerning a pretended plott for which John Gerharde Esquire, and Peter Vovvell gent: were murthered on the 10.th of August, 1654.</title>
+            <author>Henshaw, Thomas, 1618-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86212</idno>
+            <idno type="STC">Wing H1483</idno>
+            <idno type="STC">Thomason E812_17</idno>
+            <idno type="STC">ESTC R207637</idno>
+            <idno type="EEBO-CITATION">99866676</idno>
+            <idno type="PROQUEST">99866676</idno>
+            <idno type="VID">118955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118955)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E812[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of Thomas Henshaw Esquire, sometimes Major in the French Kings service. In justification of himself against the aspersions throwne vpon him. Concerning a pretended plott for which John Gerharde Esquire, and Peter Vovvell gent: were murthered on the 10.th of August, 1654.</title>
+                  <author>Henshaw, Thomas, 1618-1700.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at the Spavv.,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>MDCLIV. [1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] . 24 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henshaw, Thomas, 1618-1700 --  Early works to 1800.</term>
+               <term>Gerhard, John, 1631-1658 --  Early works to 1800.</term>
+               <term>Vowell, Peter, d. 1654 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118955:1" rendition="simple:additions"/>
+            <head>A Vindication of <hi>THOMAS HENSHAW</hi> Eſquire, ſometimes Major in the <hi>French</hi> Kings ſervice. In juſtiftcation of himſelf against the Aſperſions throwne vpon him. Concerning a pretended Plott for which <hi>JOHN GERHARDE</hi> Eſquire, and <hi>PETER VOVVELL</hi> Gent: were murthered on the <hi>10.<hi rend="sup">th</hi>
+               </hi> of August, <hi>1654.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Solitarineſs, to which (from the noiſe, and vanities of a falſe World, and falſer Nati<g ref="char:EOLhyphen"/>on) J was in Contemplation retired, to the cavernes, and Idea's of Death; I could have paſſed over thoſe ſeverall contradictory Scandals thrown upon me, and taken my ſatisfaction from the bleſſing in ſtore for thoſe who wrongfully are calumniated, if by the private ſollitations of my Friends, and the fre<g ref="char:EOLhyphen"/>quent al'armes of publique impertinent Pamphlets; I had not been awakened to the ſervice of truth. And a Souldier is reduced to a ſad exigencie, who is forced to retreat to his Pen, principally where Truth is as dange<g ref="char:EOLhyphen"/>rous to be Printed as ſpoken.</p>
+            <p>I have ſeene ſeverall Pamphlets, which diſcribed, or framed a Plott, as falſe, as ſenceleſs; where I am na<g ref="char:EOLhyphen"/>med a chief contriver. Truly theſe Writers have the
+<pb n="2" facs="tcp:118955:2"/>
+advantage and liberty of the Preſſe, to diſpoſe of any mans fame, as freely as the High Court of Iuſtice doe of his body: And much at a rate: For if a buſineſs (ſuch as hath been noiſed) were to be Executed; The King could not be ſo indigent of Friends, that an Ale-houſe-keeper (meaner of Condition then Profeſſion) ſhould be picked up, as a Perſon fit for the Honour Mr. <hi>Wharton</hi> would give himſelf of Proclaiming the King in <hi>London.</hi>
+            </p>
+            <p>And for Parſon <hi>Hudſon,</hi> were hee deafe, and dumbe, he might be an indifferent Secretary, but being blind he is altogether an unfit correſpondent for a King.</p>
+            <p>For ſome of the Mercenary <note n="*" place="margin">
+                  <hi>Coll:</hi> Al<g ref="char:EOLhyphen"/>dridge, <hi>&amp;c.</hi>
+               </note> hired Witneſſes, that mentioned great ſummes of Money promiſed to them, I believe the men ſpoke according to their inclinations. But they know <hi>Pluto</hi> to be the God of Riches, and his chief Steward, and Caſh-keeper in <hi>England,</hi> will ſurely pay them for their lyes: Or hee himſelfe will reward them, when they audit their accompts. I ſhould won<g ref="char:EOLhyphen"/>der why that ſubtile Sir that ſwayes the Scepter in this Region of falſe-hoods, could not dictate better to them. But truth will appeare in deſpight of her Enemies.</p>
+            <p>For the other witneſſes, Mr. <hi>John Wiſeman</hi> (my half Brother) and Mr. <hi>Charles Gerharde,</hi> Brother to the late murthered <hi>John Gerharde:</hi> I pitty their youths, and wiſh they had not been <note n="*" place="margin">Phalleris li<g ref="char:EOLhyphen"/>cet imperet, &amp; ad moto ducet perju<g ref="char:EOLhyphen"/>ria tauro.</note> frighted from Truth, nor flattered from Honour.</p>
+            <p>And for the diſcourſe mentioned, with the Right<g ref="char:EOLhyphen"/>full King of England, it is as falſe as the hearts of the Inventers of all theſe lyes; Not but that according to my duty, I ſhall ever faithfully ſerve him; and be proud if the loſſe of my blood may advance his intereſt:
+<pb n="3" facs="tcp:118955:2"/>
+With teares of Ioy I ſaw him in health; yet certainly my Brother cannot ſweare, I had the Honour to Kiſſe his hands, or made any addreſſe to his Majeſtie. Indeed thoſe that underſtand how deſervedly His Highneſs Prince RVPERT is eſteemed at the Court of <hi>France,</hi> will not blame me (who have received ſome hard mea<g ref="char:EOLhyphen"/>ſure there) if I made Suite to ſo worthy a Patron, by his meanes and favour to get remedy.</p>
+            <p>For the buſineſſe atteſted by Mr. <hi>Charles Gerharde,</hi> I muſt confeſſe (from a long Experience of his worth, and my knowledge of his affection to his injured King and Country) together with Collonel <hi>Charles Finch,</hi> I had ſome diſcourſe with his Brother of the poſſibility the enſlaved Gentry of this Nation, had of Righting the beſt of Princes, and freeing themſelves from ſo inſup<g ref="char:EOLhyphen"/>portable a yoake: But that ever any ſuch thing was a<g ref="char:EOLhyphen"/>greed on, much leſſe concluded to be put in Execution, as (with ſo ſpacious a forme of Time and Place) is pre<g ref="char:EOLhyphen"/>tended, is as untrue, as if any man ſhould affirme, that the Idoll of this Nation is not an enemy to God, whoſe houſes he hath layd waſte, a Traytor to his King, whoſe Lands he poſſeſſes, and an Impoſter to his Poore young men. I believe they might be terrified with his threats, as diſmayed by the Examples of his cruelty upon o<g ref="char:EOLhyphen"/>thers, whoſe knowne Innocencie was no ſafegard a<g ref="char:EOLhyphen"/>gainſt the uttermoſt extremities of a moſt loathſome Dungeon.</p>
+            <p>O the barbarouſneſs! O the impudence of an im<g ref="char:EOLhyphen"/>perious tyrant? With what arrogance? With what foule language did hee inſult over Gentlemen, better then himſelfe? But let this be the comfort of the af<g ref="char:EOLhyphen"/>flicted, that the Lord hath looked downe from Heaven,
+<pb n="4" facs="tcp:118955:3"/>
+that he might heare the groanings of the fettered, and looſe the Children of them that are ſlaine.</p>
+            <p>Now they that know the cunning of their Examiner, know alſo that hee uſes artifice (with allurements, aſ<g ref="char:EOLhyphen"/>well as threats) enough to ſtagger the reſolutions of Elder yeares: And they are not the firſt of many thouſands that have believed him, and conſequently been deceived by him. What ſhall bee added to a de<g ref="char:EOLhyphen"/>ceitfull Tongue? The ſharpe arrowes of the Almigh<g ref="char:EOLhyphen"/>ty, with coales of deſolation.</p>
+            <p>For my being lately at <hi>Paris,</hi> I am not obliged to give any man account, though ſome notorious Lyers, inſtruments (and ſome of the <note n="*" place="margin">Mr. <hi>Clapole.</hi>
+               </note> brood) of <hi>Cromwell</hi> have reported, that I had Money from him for my journey: Others further ſuggeſt, that Mr.<note n="*" place="margin">A dead man cannot con<g ref="char:EOLhyphen"/>tradict them</note> 
+               <hi>Henry El<g ref="char:EOLhyphen"/>ſing</hi> carried me to him to receive money for betraying Gentlemen in this pretended Plot, with other the like inventions; which had they been true, <hi>Cromwell</hi> nee<g ref="char:EOLhyphen"/>ded not have tempted ſo many, with ſo large ſummes to betray my life, as by many Gentlemen of Honour in <hi>London</hi> will be atteſted.</p>
+            <p>And truly men of worth ſhould be more tender of reporting things upon truſt to the prejudice of a Gen<g ref="char:EOLhyphen"/>tlemans repute, who cannot appeare to contradict them. In a Country, whom he hath cheated out of all her Liberties.</p>
+            <p>For the little printed Libell (as they call it) where<g ref="char:EOLhyphen"/>in is mentioned his crueltie, avarice, and ambition, as unſatisfied as the Sea, or grave, &amp;c. if that were it is meant, I confeſs I writ it, but deny it to bee a Libell: And <hi>Cromwell</hi> is more civill then in his actions to give
+<pb n="5" facs="tcp:118955:3"/>
+the lye, to one no more Complementall with him. And yet I ſubſcribe my ſelf altogether unable to ſpeake his deſerts.</p>
+            <p>And now I appeale to all impartiall people, if theſe amazed terrified witneſſes (who fro<g ref="char:cmbAbbrStroke">̄</g> their own mouthes ſtood convicted) were more ſufficient then the Iudges, of whom ſo many are ſo notoriouſly perjured, that I blame not Mr. <hi>Vowell,</hi> for not admitting them to be his Peeres. And I believe when the great leveller Death ſhall have reduced them to what by their Sentence hee is already brought, they will not ſo confidently ſtand before him in Iudgement.</p>
+            <p>What hee dyed for, I underſtand not; Further then himſelf in his laſt intended Speech (now in Print) de<g ref="char:EOLhyphen"/>livered; where hee ſpeakes as if the Sacrifices of hu<g ref="char:EOLhyphen"/>mane blood begun to <hi>Baall,</hi> and <hi>Beelzebub</hi> muſt be continued, And ſince the Nobleſt for birth, and moſt eminent for Vertue, hath (with ſuch greedineſſe) been already quaffed off; the ſtill growing thirſt, muſt bee allayed with ſuch as is remaining.</p>
+            <p>Our Saviour obſerved of the great binders of Bur<g ref="char:EOLhyphen"/>thens, that for a pretence They made long Prayers, whileſt they devoured Widowes houſes: But our Pha<g ref="char:EOLhyphen"/>riſie was at prayers (or ſeeking the Lord) whileſt hee gave order for the Murthering his Sovereigne,<note place="margin">Tantum re<g ref="char:EOLhyphen"/>ligio poterat ſuadere ma<g ref="char:EOLhyphen"/>lorum!</note> and Wi<g ref="char:EOLhyphen"/>dowing three whole Nations; And having thus berea<g ref="char:EOLhyphen"/>ved them of their Crowne, and glorious Head; hee hath made them a falſe viſard (like his owne hands and heart) forged out of ruſty Iron. And what is yet more grievous, their Children are conſtrained to bow downe before this monſter Idoll; as the <hi>Indians</hi> wor<g ref="char:EOLhyphen"/>ſhip the Divell for feare of harme.</p>
+            <p>
+               <pb n="6" facs="tcp:118955:4"/>Now notwithſtanding his perſecuting my Friends, his dealing with baſe People, and conſulting with Wi<g ref="char:EOLhyphen"/>zards for the finding me out, and his offers of ſummes of money, larger then the Fee-ſimple of his owne rightfull Inheritance. (How highly hee thirſts for blood! And how dearly his draughts coſt the Nation!) <hi>Alexander, ia:</hi> who lived in the <hi>Mewes,</hi> received 100.<abbr>l.</abbr> and hath a yearly Penſion promiſed him for (inventing) then diſcovering this pretended Plott.</p>
+            <p>Yet by Divine providence my Soul is eſcaped, as a Bird from the ſnare of the fowler; But not from his unjuſt lippes, and deceitfull tongue; for when hee could not reach my Perſon to gratifie his moſt inveterate malice with my blood, hee ſtruck at my reputation, and by his Practices he made Mr. <hi>Gerhard</hi> my friend (whoſe memory I ſhall ever Honour) dye in a beliefe, that I was in his cuſtody, and perſwaded him (as hee hath almoſt the whole world) to credit that I was the Author of all his owne invented lyes; To which, to give a better gloſſe, hee hath varniſhed them with (his uſuall tincture) Blood: For which co<g ref="char:EOLhyphen"/>lour he was wilfully bent the innocent Gentleman ſhould find ſuch juſtice, as his mercy commonly diſtributes.</p>
+            <p>And hee hath ſo exquiſite an art of Brewing, then ſpreading the black iſſue of his braine, with Circum<g ref="char:EOLhyphen"/>ſtances. and appearances of Truth; that many of my intimate Friends, have been induced to doubt my Loy<g ref="char:EOLhyphen"/>altie. Inſomuch, that I ſhould have appeared in de<g ref="char:EOLhyphen"/>fence of my honour, and juſtification of my ſelfe, if we might have had legall tryall: But it had been mad<g ref="char:EOLhyphen"/>neſs to indulge the luxurious malice of my Enemies, with that blood, which I am obliged to preſerve for the ſervice of my King and Country.</p>
+            <p>
+               <pb n="7" facs="tcp:118955:4"/>When the meaſure of his Iniquities is full, ven<g ref="char:EOLhyphen"/>geance will overtake him, In the meane time as God ſet a marke on <hi>Caine</hi> the firſt, ſo hee hath ſet a guard on <hi>Cromwell</hi> the greateſt Murtherer.</p>
+            <p>J cannot but pittie the common Souldiers, who ſhare largely in his guilt, but yet continue poore, and in ſlaverie to him, as Witches, to the Divell.</p>
+            <p>At the great day of reckoning, when inquiſition ſhall be made for Blood, it will not excuſe them, to ſay, they were Commanded; for their hands ſupport the Murtherers, and all their miſchiefes: And though now they are ingenious to delude themſelves, they will then know, that there is no drop of blood ſpilt, from which the Soules of thoſe farre remote, aſwell as of thoſe preſent receives not a ſtaine.</p>
+            <p>I pray God their eyes may at length bee opened, that they may not longer hazard their precious Soules in the ſervice of Sinne, and Sathan; for the wages is death, and that death Eternall.</p>
+            <p>Feare not thoſe that can Kill the body but not hurt the ſoule, but feare him that can bring both Bo<g ref="char:EOLhyphen"/>dy and Soule to deſtruction. And they that truly ſerve, and feare him, will not for the vaine hopes of the fraile world bee diſloyall to the beſt King in it: For whom I ſhall ever pray, that God will guide, and Protect him, and give me one day a poſſibilitie, of teſtifying to the world; that I am as much as any man living, his true and faithfull Subject; of which, God Almighty raiſe him ſufficient numbers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at the SPAVV. MDCLIV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
